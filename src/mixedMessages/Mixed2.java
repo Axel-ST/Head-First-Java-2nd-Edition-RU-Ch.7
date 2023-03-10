@@ -28,5 +28,6 @@ public class Mixed2 {
         a2.m1();
         a2.m2();
         a2.m3(); // like 4 answer
+        System.out.println("The end");
     }
 }
